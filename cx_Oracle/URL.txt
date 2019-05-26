@@ -1,0 +1,6 @@
+https://blogs.oracle.com/opal/efficient-and-scalable-batch-statement-execution-in-python-cx_oracle
+https://www.programcreek.com/python/example/63817/cx_Oracle.DatabaseError
+http://www.juliandyke.com/Research/Development/UsingPythonWithOracle.php
+https://www.foxinfotech.in/2018/09/cx_oracle-python-tutorials.html
+https://code.activestate.com/recipes/langs/python/tags/meta:requires=cx_oracle/
+https://learncodeshare.net/2015/06/02/basic-crud-operations-using-cx_oracle/
